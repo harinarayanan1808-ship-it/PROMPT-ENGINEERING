@@ -1,3 +1,5 @@
+# Name: Harinarayanan A
+# REG NO: 212225230090
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
